@@ -1,6 +1,6 @@
 # 📌 Project Overview
 
-# This project is a front-end clone of the main homepage of Amazon, built using only HTML and CSS. It recreates the layout, structure, and visual design of the original website while focusing on clean code and responsive design principles.
+This project is a front-end clone of the main homepage of Amazon, built using only HTML and CSS. It recreates the layout, structure, and visual design of the original website while focusing on clean code and responsive design principles.
 
 # The purpose of this project is to practice and strengthen foundational front-end development skills without using JavaScript.
 
